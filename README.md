@@ -5,7 +5,7 @@ Lossy Image Compression using Vector Quantization and K-Means Clustering.
 ## Results
 Reconstructed images with different k (num of clusters) values.
 
-<img src="readme_images/vq_image_compression.png" width="1200">
+<img src="readme_images/vq_image_compressions.jpg" width="1200">
 
 Tran Le Anh
 
